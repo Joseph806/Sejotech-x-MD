@@ -3,7 +3,7 @@
   "description": "An easy and simple WhatsApp bot",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://telegra.ph/file/d7b133573a5a3622775e6.jpg",
-  "repository": "https://github.com/Willis911/Flash-Md",
+  "repository": "https://github.com/Joseph806/Sejotech-x-MD",
   "succes_url": "/",
   "stack": "heroku-24",
 
@@ -84,12 +84,12 @@
     },
     "OWNER_NAME": {
       "description": "Enter the name of the bot owner. This name will be displayed when required.",
-      "value": "Willis",
+      "value": "Joseph",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your phone number without the '+' sign. Use your country code (e.g., '254' for Kenya).",
-      "value": "254786273945",
+      "value": "254114305147",
       "required": false
     },
     "WARN_COUNT": {
