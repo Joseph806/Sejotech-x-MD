@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐓𝐇𝐄 𝐅𝐋𝐀𝐒𝐇 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
+<h1 align="center">sejo-x-md 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
 <p align="center">  
 
 ***
@@ -11,16 +11,16 @@
 <a href="https://github.com/franceking1/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+<a href="https://github.com/joseph806?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
+<a href="https://github.com/joseph806 /Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/joseph806/Flash-Md?&style=social"></a>
+<a href="https://github.com/joseph806 /Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
+<a href="https://github.com/joseph806 /Flash-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/joseph806/Flash-Md?label=Watching&style=social"></a>
   
 ***
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Joseph806/Sejotech-x-MD) It***
 
 ***2.`Get Session ID` by [`SCANING QR`](https://the-flash-scanner.onrender.com) Or [`PAIRING CODE`](https://king-france.vercel.app) or [`PAIR CODE 2`](https://the-flash-md-sessions.onrender.com/pair)***
 
@@ -56,5 +56,8 @@
 ### THANKS TO:
 - [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds Addition.
 - [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Session Generation
-- [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption 
+- [***Suhail Ser***]
+https://github.com/SuhailTechInfo) For Code encryption 
 - [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
+- .[***Joseph Tech***]
+  -(https://github.com/Joseph806)
