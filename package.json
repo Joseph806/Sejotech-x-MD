@@ -14,9 +14,9 @@
     "Flash-Md",
     "whatsapp",
     "whatsapp-bot",
-    "franceking1"
+    "joseph806"
   ],
-  "author": "France King",
+  "author": "Joseph mwangi",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
