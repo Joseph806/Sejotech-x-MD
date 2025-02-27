@@ -5,15 +5,15 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FLASH-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+Joseph+mwangi;RELEASED+22.2.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="FLASH-MD" width="700" height="300" src="https://files.catbox.moe/tvo4g6.jpg">
+    <img alt="FLASH-MD" width="700" height="300" src="https://files.catbox.moe/kwam01.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/franceking1/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Joseph806/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/joseph806?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
 <a href="https://github.com/joseph806 /Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/joseph806/Flash-Md?&style=social"></a>
-<a href="https://github.com/joseph806 /Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
+<a href="https://github.com/joseph806 /Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/joseph806/Flash-Md?style=social"></a>
 <a href="https://github.com/joseph806 /Flash-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/joseph806/Flash-Md?label=Watching&style=social"></a>
   
 ***
@@ -60,4 +60,4 @@
 https://github.com/SuhailTechInfo) For Code encryption 
 - [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
 - .[***Joseph Tech***]
-  -(https://github.com/Joseph806)
+  -(https://github.com/Joseph806)!"https://files.catbox.moe/kwam01.jpg"
