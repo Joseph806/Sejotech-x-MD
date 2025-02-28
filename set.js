@@ -22,7 +22,7 @@ module.exports = {
     A_REACT: process.env.AUTO_REACTION || 'off',
     L_S: process.env.STATUS_LIKE || 'on',
     AUTO_BLOCK: process.env.BLOCK_ALL || 'off',
-    URL: process.env.MENU_LINKS || 'https://telegra.ph/file/d7b133573a5a3622775e6.jpg',
+    URL: process.env.MENU_LINKS || 'https://files.catbox.moe/bc70kx.jpg',
     MODE: process.env.BOT_MODE || "public",
     PM_PERMIT: process.env.PM_PERMIT || 'on',
     HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
