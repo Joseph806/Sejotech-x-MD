@@ -1,8 +1,8 @@
 {
-  "name": "FLASH-MD",
+  "name": "SEJOTECH-MD",
   "description": "An easy and simple WhatsApp bot",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
-  "logo": "https://telegra.ph/file/d7b133573a5a3622775e6.jpg",
+  "logo": "https://files.catbox.moe/bc70kx.jpg",
   "repository": "https://github.com/Joseph806/Sejotech-x-MD",
   "succes_url": "/",
   "stack": "heroku-24",
@@ -90,7 +90,7 @@
     "OWNER_NUMBER": {
       "description": "Enter your phone number without the '+' sign. Use your country code (e.g., '254' for Kenya).",
       "value": "254114305147",
-      "required": false
+      "required": true
     },
     "WARN_COUNT": {
       "description": "Set the limit for warnings issued by the bot. Once this limit is reached, action will be taken.",
