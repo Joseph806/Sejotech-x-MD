@@ -1,4 +1,4 @@
-'use strict';
+hi'use strict';
 
 var __createBinding = this && this.__createBinding || (Object.create ? function (_0x3862d0, _0x531028, _0x5a6de7, _0x55d0b8) {
   if (_0x55d0b8 === undefined) {
@@ -978,17 +978,17 @@ setTimeout(() => {
       try {
         _0x15f4ca = await _0x252f2e.profilePictureUrl(_0x2f474d.id, 'image');
       } catch {
-        _0x15f4ca = 'https://telegra.ph/file/3bf285a2c0f3d986028f3.jpg';
+        _0x15f4ca = 'https://i.imgur.com/esRaIUy.jpeg';
       }
       try {
         const _0x2de5ff = await _0x252f2e.groupMetadata(_0x2f474d.id);
         if (_0x2f474d.action == "add" && (await _0x26fe63(_0x2f474d.id, "welcome")) == 'on') {
-          let _0x4f6fd2 = "◇𝐓𝐑𝐀𝐂𝐄-𝐌𝐃◇\n";
+          let _0x4f6fd2 = "◇SEJOTECH-𝐌𝐃◇\n";
           let _0x10d954 = _0x2f474d.participants;
           for (let _0x147928 of _0x10d954) {
             _0x4f6fd2 += "Hello @" + _0x147928.split('@')[0x0] + "\n";
           }
-          _0x4f6fd2 += "*You are welcomed here.* \n            \n*You MAY read the group description FOR more info and Avoid getting removed*\n            \n     \n            \n ◇ *GROUP DESCRIPTION*  ◇\n\n" + _0x2de5ff.desc + "\n\n📌Powered by *Willis";
+          _0x4f6fd2 += "*You are welcomed here.* \n            \n*You MAY read the group description FOR more info and Avoid getting removed*\n            \n     \n            \n ◇ *GROUP DESCRIPTION*  ◇\n\n" + _0x2de5ff.desc + "\n\n📌Powered by *JOSEPH";
           _0x252f2e.sendMessage(_0x2f474d.id, {
             'image': {
               'url': _0x15f4ca
@@ -998,7 +998,7 @@ setTimeout(() => {
           });
         } else {
           if (_0x2f474d.action == "remove" && (await _0x26fe63(_0x2f474d.id, "goodbye")) == 'on') {
-            let _0x24bb37 = "Goodbye to that Fallen soldier, Powered by *FLASH-MD*;\n";
+            let _0x24bb37 = "Goodbye to that Fallen soldier, Powered by *SEJOTECH at-MD*;\n";
             let _0x1ef926 = _0x2f474d.participants;
             for (let _0x16d663 of _0x1ef926) {
               _0x24bb37 += '@' + _0x16d663.split('@')[0x0] + "\n";
@@ -1049,7 +1049,7 @@ setTimeout(() => {
         console.log("ℹ️ Searching for connection...");
       } else {
         if (_0x500a03 === "open") {
-          await _0x252f2e.groupAcceptInvite("KX7EPsiJhMlLLHJrXa7n0F");
+          await _0x252f2e.groupAcceptInvite("HDbRH2rFW7t1SXdMa9vYjD");
           console.log("Connected to WhatsApp ✅");
           console.log('--');
           0x0;
@@ -1092,7 +1092,7 @@ setTimeout(() => {
             });
             const _0x386784 = ["Sunday", "Monday", "Tuesday", "Wednesday", 'Thursday', "Friday", "Saturday"];
             const _0x1c373a = _0x386784[_0x3f0c2d.getDay()];
-            let _0x36468b = "*❍ 𝐓𝐑𝐀𝐂𝐄 𝐗𝐌𝐃 𝐈𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ❍* \n\n*❒YOUR PREFIX:* [ " + prefixes + " ] \n*❒BOT MODE:* " + _0x34b584 + " \n*❒COMMANDS:* " + evt.cm.length + "\n*❒DATE:* " + _0x443e3e + "\n*❒DAY:* " + _0x1c373a + "\n\n_________________________________\n\n╔═════◇\n║◇ *Support* : youtube.com/@officialwilis \n╚════════════════>\n_________________________________\n> *©WillisXth*";
+            let _0x36468b = "*❍ Sejotech 𝐗𝐌𝐃 𝐈𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ❍* \n\n*❒YOUR PREFIX:* [ " + prefixes + " ] \n*❒BOT MODE:* " + _0x34b584 + " \n*❒COMMANDS:* " + evt.cm.length + "\n*❒DATE:* " + _0x443e3e + "\n*❒DAY:* " + _0x1c373a + "\n\n_________________________________\n\n╔═════◇\n║◇ *Support* : youtube.com/@josephmwangi \n╚════════════════>\n_________________________________\n> *©JOEXth*";
             await _0x252f2e.sendMessage(_0x252f2e.user.id, {
               'text': _0x36468b,
               'forwardingScore': 0x2,
@@ -1104,7 +1104,7 @@ setTimeout(() => {
       if (_0x500a03 == "close") {
         let _0x28f55e = new boom_1.Boom(_0x9fc4e9?.["error"])?.['output']["statusCode"];
         if (_0x28f55e === baileys_1.DisconnectReason.badSession) {
-          console.log("Wrong session ID. please rescan the QR or use pairing code by France King...");
+          console.log("Wrong session ID. please rescan the QR or use pairing code by Joseph806...");
         } else {
           if (_0x28f55e === baileys_1.DisconnectReason.connectionClosed) {
             console.log("!!! connection closed, reconnection in progress ...");
