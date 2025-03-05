@@ -14,7 +14,7 @@ module.exports = {
     session: process.env.SESSION_ID || 'FLASH-MD-WA-BOT;;;=>',
     PREFIXES: (process.env.PREFIX || '.').split(',').map(prefix => prefix.trim()).filter(Boolean),
     OWNER_NAME: process.env.OWNER_NAME || "SEJO-Xth",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "254114305147,254101827915",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "254101827915,254114305147",
     AUTO_READ_STATUS: process.env.AUTO_VIEW_STATUS || "on",
     AUTOREAD_MESSAGES: process.env.AUTO_READ_MESSAGES || "off",
     CHATBOT: process.env.CHAT_BOT || "off",
